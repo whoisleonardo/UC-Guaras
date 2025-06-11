@@ -42,6 +42,7 @@ js/
 - HTML5, CSS3, JavaScript
 - [EmailJS](https://www.emailjs.com/) para envio de e-mails
 - [Font Awesome](https://fontawesome.com/) para ícones
+- [Netlify](https://www.netlify.com) para deploy
 
 ## Licença
 
